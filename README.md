@@ -8,7 +8,7 @@ in 14 lines of code!
 # installing
 To install this program, type this commands in the terminal
 ```
-git clone
+git clone https://github.com/moroshenko/pyramid.git
 ```
 ```
 make
